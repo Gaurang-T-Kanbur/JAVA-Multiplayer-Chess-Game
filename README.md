@@ -1,1 +1,1 @@
-"'Java Multiplayer Chess Game Using RMI."'
+Java Multiplayer Chess Game Using RMI.
